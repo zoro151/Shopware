@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/custom/plugins/DockwareSamplePlugin/src" isTestSource="false" packagePrefix="DockwareSamplePlugin\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/custom/plugins/DockwareSamplePlugin/tests" isTestSource="true" packagePrefix="DockwareSamplePlugin\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/custom/plugins/SwagPlatformDemoData/src" isTestSource="false" packagePrefix="Swag\PlatformDemoData\" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/cocur/slugify" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/defuse/php-encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/ezimuel/guzzlestreams" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/ezimuel/ringphp" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/friendsofphp/proxy-manager-lts" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/laminas/laminas-code" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/lcobucci/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/event" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/flysystem-local" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/flysystem-memory" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/oauth2-server" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/uri" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/league/uri-interfaces" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/meyfa/php-svg" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/nyholm/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/opensearch-project/opensearch-php" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/padaliyajay/php-autoprefixer" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/phenx/php-svg-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/react/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/sabberworm/php-css-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/scssphp/scssphp" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/seld/jsonlint" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/seld/phar-utils" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/seld/signal-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/setasign/fpdi" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/setasign/tfpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/shopware/administration" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/shopware/core" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/shopware/elasticsearch" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vendor/shopware/storefront" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

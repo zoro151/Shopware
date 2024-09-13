@@ -1,0 +1,7 @@
+{
+  "name": "shopware_repo",
+  "version": "1.0.0",
+  "dependencies": {
+    "src": "^1.0.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "swag-c-m-s/swag-c-m-s",
+    "description": "swag-c-m-s/swag-c-m-s",
+    "type": "shopware-platform-plugin",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require": {
+        "shopware/core": "~6.6.0"
+    },
+    "extra": {
+        "shopware-plugin-class": "SwagCMS\\SwagCMS",
+        "label": {
+            "de-DE": "Skeleton plugin",
+            "en-GB": "Skeleton plugin"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "SwagCMS\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SwagCMS\\Tests\\": "tests/"
+        }
+    }
+}

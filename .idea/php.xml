@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/src/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/src/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/src/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/src/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/src/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/src/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/src/vendor/padaliyajay/php-autoprefixer" />
+      <path value="$PROJECT_DIR$/src/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/src/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/src/vendor/opensearch-project/opensearch-php" />
+      <path value="$PROJECT_DIR$/src/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/src/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/src/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/src/vendor/seld/signal-handler" />
+      <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/src/vendor/shopware/administration" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/src/vendor/shopware/elasticsearch" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/src/vendor/shopware/core" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/src/vendor/shopware/storefront" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/src/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/src/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/src/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/src/vendor/meyfa/php-svg" />
+      <path value="$PROJECT_DIR$/src/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/src/vendor/setasign/fpdi" />
+      <path value="$PROJECT_DIR$/src/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/src/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/src/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/src/vendor/setasign/tfpdf" />
+      <path value="$PROJECT_DIR$/src/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/src/vendor/league/event" />
+      <path value="$PROJECT_DIR$/src/vendor/scssphp/scssphp" />
+      <path value="$PROJECT_DIR$/src/vendor/league/flysystem-memory" />
+      <path value="$PROJECT_DIR$/src/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/src/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/src/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/src/vendor/league/uri-interfaces" />
+      <path value="$PROJECT_DIR$/src/vendor/league/uri" />
+      <path value="$PROJECT_DIR$/src/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/src/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/src/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/src/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/src/vendor/ezimuel/ringphp" />
+      <path value="$PROJECT_DIR$/src/vendor/ezimuel/guzzlestreams" />
+      <path value="$PROJECT_DIR$/src/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/src/vendor/laminas/laminas-code" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>

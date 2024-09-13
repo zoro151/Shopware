@@ -1,0 +1,9 @@
+{
+  "sw-cms": {
+    "elements": {
+      "CmsDemo-cms-element": {
+        "label": "CMS ELEMENT DEMO"
+      }
+    }
+  }
+}
